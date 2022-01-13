@@ -45,6 +45,7 @@ body{
     cursor: pointer;
     font-weight: bold;
     border-radius: 5px;
+    margin-top: 1rem;
 }
 .card{
     box-shadow: 2px 2px 5px orange;

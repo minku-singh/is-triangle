@@ -89,6 +89,9 @@ input:focus{
     font-size: 1rem;
     margin-bottom: 0.8rem;
 }
+.area-p{
+    margin-bottom: 1rem;
+}
 
 @media screen and (max-width: 768px){
     .container input{

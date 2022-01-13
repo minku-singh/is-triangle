@@ -52,7 +52,7 @@ body{
     border-radius: 5px;
     padding: 2rem;
 }
-.container h1{
+.card h1{
     margin-bottom: 1rem;
     color: orange;
 }
@@ -70,10 +70,21 @@ input:focus{
 #output{
     text-align: center;
     margin-top: 1rem;
+    font-weight: bold;
+}
+.each-question{
+    margin-bottom: 1.5rem;
+}
+.question1, .question2{
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+.answer1, .answer2{
+    margin-left: 1rem;
 }
 
 @media screen and (max-width: 768px){
-    .container input{
+    .card input{
         width: 15rem;
         margin: 5px;
     }

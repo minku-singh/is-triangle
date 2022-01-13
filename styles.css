@@ -70,3 +70,10 @@ input:focus{
     text-align: center;
     margin-top: 1rem;
 }
+
+@media screen and (max-width: 768px){
+    .container input{
+        width: 15rem;
+        margin: 5px;
+    }
+}

@@ -85,6 +85,10 @@ input:focus{
 .answer{
     display: flex;
 }
+.card h2{
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+}
 
 @media screen and (max-width: 768px){
     .container input{
